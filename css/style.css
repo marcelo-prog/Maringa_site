@@ -61,6 +61,12 @@ section{
 	margin-top:30px;
 }
 
+aside{
+	width:100%;
+	height:400px;
+	background-color: chartreuse;
+}
+
 footer{
 	width:100%;
 	height:150px;
